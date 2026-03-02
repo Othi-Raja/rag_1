@@ -1,0 +1,12 @@
+streamlit
+PyPDF2
+numpy
+networkx
+plotly
+python-dotenv
+pandas
+neo4j
+sentence-transformers
+requests
+faiss-cpu
+ollama
